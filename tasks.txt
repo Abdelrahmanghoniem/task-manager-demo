@@ -1,1 +1,4 @@
-"Task 1: Setup project structure" 
+Task 1: Setup project structure [High]
+Task 2: Add user authentication [Critical]
+Task 3: Create dashboard UI [Medium]
+Task 4: Write documentation [Low]

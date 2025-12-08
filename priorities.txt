@@ -1,0 +1,6 @@
+Critical: Must be done immediately
+High: Important, complete within 24 hours
+Medium: Complete within the week
+Low: Complete when time permits
+EOL
+
